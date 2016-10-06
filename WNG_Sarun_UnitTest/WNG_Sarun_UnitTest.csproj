@@ -51,9 +51,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\WNG_Sarun\WNG_Sarun.csproj">
+    <ProjectReference Include="..\WNG_Sarun\WNG_Sarun_MVC.csproj">
       <Project>{BC40A3EE-359E-4F21-AA4A-72B8985D8E7A}</Project>
-      <Name>WNG_Sarun</Name>
+      <Name>WNG_Sarun_MVC</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

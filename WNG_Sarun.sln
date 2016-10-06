@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WNG_Sarun", "WNG_Sarun\WNG_Sarun.csproj", "{BC40A3EE-359E-4F21-AA4A-72B8985D8E7A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WNG_Sarun_MVC", "WNG_Sarun\WNG_Sarun_MVC.csproj", "{BC40A3EE-359E-4F21-AA4A-72B8985D8E7A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WNG_Sarun_Service", "WNG_Sarun_Service\WNG_Sarun_Service.csproj", "{2563B45B-091A-4880-B3B6-438C727DE59B}"
 EndProject
